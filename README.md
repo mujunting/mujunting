@@ -14,8 +14,8 @@ I enjoy building AI-powered applications, exploring large language models, and t
 
 ## Projects & Hackathons
 
-- **[AI Form Coach](https://github.com/mujunting/AIFormCoach)** - Hackathon project.
-- **[SmellCast](https://github.com/mujunting/Smellcast)** - Hackathon project.
+- **[AI Form Coach](https://github.com/mujunting/AIFormCoach)** - 2026 Irvine hack.
+- **[SmellCast](https://github.com/mujunting/Smellcast)** - 2026 SanD hack.
 
 ## Experience
 

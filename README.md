@@ -6,6 +6,8 @@ I enjoy building AI-powered applications, exploring large language models, and t
 
 🐾 **Fun fact:** When I'm not coding, I'm probably checking on my three dogs and five little crabs.
 
+If you ever want to talk to me, whether it's about a project or just getting to know me, please don't hesitate to reach out :)
+
 ## 🔬 Research
 
 - **NaturalTalk** - Making conversations between AI agents more human-like.
@@ -18,7 +20,3 @@ I enjoy building AI-powered applications, exploring large language models, and t
 ## 💼 Experience
 
 - **AI Engineer Intern @ Ash AI** - Built an AI-powered e-commerce agent integrating LLM workflows with backend services.
-
-## 🤝 Connect
-
-Always open to interesting projects, research collaborations, and meeting new people!

@@ -20,3 +20,4 @@ I enjoy building AI-powered applications, exploring large language models, and t
 ## Experience
 
 - **AI Engineer Intern @ Ash AI** - Built an AI-powered e-commerce agent integrating LLM workflows with backend services.
+- **Learning Assistant for I&C SCI 32** - Tutoring students in labs, assisting them with questions regarding course material and projects
